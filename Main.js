@@ -18,5 +18,14 @@ console.log(age - yearOfBirth)
 let x = 5;
 let y = 10;
 x+=8;
+y-=3
+console.log(y)
 console.log(x);
 
+
+//ARITHMETIC OPERATORS
+
+let U=10;
+let O=59;
+result = U = O;
+console.log(result);
